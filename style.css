@@ -1,0 +1,110 @@
+
+h1{
+    background-color:#002638;
+    color: white;
+    margin-top: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    display: inline-block;
+    padding-inline: 100px;
+    border-radius: 30px;            
+}    
+
+.imagen1{
+    transition:all 0.3s ease-in-out;
+}
+.imagen1:hover{
+    transform: scale(1.1);
+}
+.imagen2{
+    padding-inline: 30px;
+    transition: all 0.3s ease-in-out;
+}
+.imagen2:hover{
+    transform: scale(1.1);
+
+}
+.imagen3{
+    transition: all 0.3s ease-in-out;
+    position: relative;   
+}
+.imagen3:hover{
+    transform: scale(1.1);
+    
+}
+h4{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;  
+}
+body {
+    background-color:  #467a94;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #002638;
+    padding: 15px 0;
+
+  }
+  
+ ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 150px;
+  }
+  
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+   
+    }
+  
+a:hover {
+    color: white;
+    background-color: #4dc3ff;
+  }
+h2{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;
+}
+h3{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
